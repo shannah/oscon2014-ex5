@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" title="Hi World" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Hi World" >
+  </component>
+  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="TextField" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Button" >
+  </component>
+  <component type="CheckBox" name="CheckBox" cloudDestinationProperty="CheckBox" text="CheckBox" >
+  </component>
+</component>

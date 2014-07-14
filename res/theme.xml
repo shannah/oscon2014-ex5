@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name="bg.png"  />
+    <image name="CheckBox-checked.png" type="multi"  />
+    <image name="CheckBox-unchecked.png" type="multi"  />
+    <ui name="Main" />
+    <image name="TextField.borderBottom_1.png" type="multi"  />
+    <image name="TextField.borderBottomL_1.png" type="multi"  />
+    <image name="TextField.borderBottomR_1.png" type="multi"  />
+    <image name="TextField.borderCenter_1.png" type="multi"  />
+    <image name="TextField.borderLeft_1.png" type="multi"  />
+    <image name="TextField.borderRight_1.png" type="multi"  />
+    <image name="TextField.borderTop_1.png" type="multi"  />
+    <image name="TextField.borderTopL_1.png" type="multi"  />
+    <image name="TextField.borderTopR_1.png" type="multi"  />
+    <theme name="Theme">
+        <val key="@checkBoxCheckedImage" value="CheckBox-checked.png" />
+        <val key="@checkBoxUncheckedImage" value="CheckBox-unchecked.png" />
+        <val key="@includeNativeBool" value="true" />
+        <border key="Button.border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="Button.fgColor" value="0" />
+        <font key="Button.font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <val key="Button.textDecoration" value="0" />
+        <font key="CheckBox.font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <font key="CheckBox.press#font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <font key="CheckBox.sel#font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <val key="Form.bgImage" value="bg.png" />
+        <val key="Form.bgType" value="2" />
+        <font key="Label.font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <font key="Label.sel#font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <border key="TextField.border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <font key="TextField.font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <border key="TextField.sel#border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <font key="TextField.sel#font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="1" actualSize="12.0" />
+        <val key="Title.fgColor" value="000000" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="GOODDP__.ttf" family="GoodDogPlain" sizeSettings="2" actualSize="12.0" />
+        <val key="Title.textDecoration" value="0" />
+        <border key="TitleArea.border" type="image" i1="TitleArea.borderTop_2.png" i2="TitleArea.borderBottom_2.png" i3="TitleArea.borderLeft_2.png" i4="TitleArea.borderRight_2.png" i5="TitleArea.borderTopL_2.png" i6="TitleArea.borderTopR_2.png" i7="TitleArea.borderBottomL_2.png" i8="TitleArea.borderBottomR_2.png" i9="TitleArea.borderCenter_2.png" />
+    </theme>
+    <image name="TitleArea.borderBottom_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomL_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomR_2.png" type="multi"  />
+    <image name="TitleArea.borderCenter_2.png" type="multi"  />
+    <image name="TitleArea.borderLeft_2.png" type="multi"  />
+    <image name="TitleArea.borderRight_2.png" type="multi"  />
+    <image name="TitleArea.borderTop_2.png" type="multi"  />
+    <image name="TitleArea.borderTopL_2.png" type="multi"  />
+    <image name="TitleArea.borderTopR_2.png" type="multi"  />
+</resource>
